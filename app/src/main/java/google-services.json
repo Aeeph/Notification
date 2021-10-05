@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "610759910915",
+    "project_id": "belajar-kotlin-51dc3",
+    "storage_bucket": "belajar-kotlin-51dc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610759910915:android:ad36941a455af21074d036",
+        "android_client_info": {
+          "package_name": "com.example.py7.crudkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610759910915-fkpictippicua9cnid9g7ntcueilc704.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyDUl3wIlqjfBiPU2D0FritVxDRCyBLmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610759910915-fkpictippicua9cnid9g7ntcueilc704.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610759910915:android:03f31f1994cee91c74d036",
+        "android_client_info": {
+          "package_name": "net.larntech.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610759910915-fkpictippicua9cnid9g7ntcueilc704.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyDUl3wIlqjfBiPU2D0FritVxDRCyBLmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610759910915-fkpictippicua9cnid9g7ntcueilc704.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
